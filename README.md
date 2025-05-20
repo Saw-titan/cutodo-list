@@ -7,7 +7,7 @@ My first project
 ✅ Check them off  
 💫 Feel the tiny joy of productivity, one checkbox at a time!
 
-Whether you're organizing your day, your goals, or just your snack list 🍪 — Cutie-Do keeps it simple and sweet.
+Whether you're organizing your day, your goals, or just your snack list 🍪 — Cutodo-list keeps it simple and sweet.
 
 ---
 
