@@ -1,5 +1,6 @@
 # 📝cutodo-list — A Simple & Sweet To-Do List ( for desktop )
 
+My first project
 **Cutie-Do** is a cute, minimalistic to-do list web app built with 💖 using **HTML**, **CSS**, and **JavaScript**.
 
 ✨ Add tasks  
@@ -20,9 +21,9 @@ Whether you're organizing your day, your goals, or just your snack list 🍪 —
 
 ## 💡 Features
 
-- Add and delete tasks  
+- Add and strikethrough tasks  
 - Mark tasks as complete ✅  
-- Simple, responsive, and aesthetic UI  
+- Simple and aesthetic UI  
 - Built with love and clean code 💻❤️
 
 ---
@@ -32,9 +33,3 @@ Whether you're organizing your day, your goals, or just your snack list 🍪 —
 [Live Demo](#) — https://cutodo-list-121.netlify.app/
 
 
-
-## 🌸 License
-
-MIT — free to use, remix, and spread the cuteness 🌼
-
----
